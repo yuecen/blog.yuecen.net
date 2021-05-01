@@ -1,0 +1,4 @@
+baseURL = "http://yuecen.net/"
+languageCode = "en-us"
+title = "yuecen's blog"
+theme = "blank"
