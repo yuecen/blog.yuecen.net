@@ -1,4 +1,4 @@
-baseURL = "http://yuecen.net/"
+baseURL = "https://blog.yuecen.net/"
 languageCode = "en-us"
 title = "yuecen's blog"
 theme = "blank"
